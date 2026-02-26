@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(*)",
+      "WebFetch(*)",
+      "WebSearch",
+      "Read(**)"
+    ],
+    "deny": [
+      "Bash(rm *)",
+      "Bash(mv *)",
+      "Bash(chmod *)",
+      "Bash(sudo *)",
+      "Bash(curl *)",
+      "Bash(wget *)",
+      "Read(*/.env*)",
+      "Read(*/secrets/*)"
+    ],
+    "additionalDirectories": [
+      "/Users/bfaris96/Claude Code Markdown/Avoider app/.claude/prompts"
+    ]
+  }
+}
