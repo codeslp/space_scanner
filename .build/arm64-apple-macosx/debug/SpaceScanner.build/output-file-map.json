@@ -1,0 +1,54 @@
+{
+  "": {
+    "swift-dependencies": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/master.swiftdeps"
+  },
+  "/Users/bfaris96/Claude Code Markdown/space_scanner/SpaceScanner/Shared/Models/KitchenAssessment.swift": {
+    "dependencies": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/KitchenAssessment.d",
+    "object": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/KitchenAssessment.swift.o",
+    "swiftmodule": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/KitchenAssessment~partial.swiftmodule",
+    "swift-dependencies": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/KitchenAssessment.swiftdeps",
+    "diagnostics": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/KitchenAssessment.dia"
+  },
+  "/Users/bfaris96/Claude Code Markdown/space_scanner/SpaceScanner/Shared/Services/RoomPlanManager.swift": {
+    "dependencies": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/RoomPlanManager.d",
+    "object": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/RoomPlanManager.swift.o",
+    "swiftmodule": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/RoomPlanManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/RoomPlanManager.swiftdeps",
+    "diagnostics": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/RoomPlanManager.dia"
+  },
+  "/Users/bfaris96/Claude Code Markdown/space_scanner/SpaceScanner/Shared/Services/VisionProcessingService.swift": {
+    "dependencies": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/VisionProcessingService.d",
+    "object": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/VisionProcessingService.swift.o",
+    "swiftmodule": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/VisionProcessingService~partial.swiftmodule",
+    "swift-dependencies": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/VisionProcessingService.swiftdeps",
+    "diagnostics": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/VisionProcessingService.dia"
+  },
+  "/Users/bfaris96/Claude Code Markdown/space_scanner/SpaceScanner/Shared/ViewModels/RoomScannerViewModel.swift": {
+    "dependencies": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/RoomScannerViewModel.d",
+    "object": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/RoomScannerViewModel.swift.o",
+    "swiftmodule": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/RoomScannerViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/RoomScannerViewModel.swiftdeps",
+    "diagnostics": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/RoomScannerViewModel.dia"
+  },
+  "/Users/bfaris96/Claude Code Markdown/space_scanner/SpaceScanner/Shared/Views/RoomScannerView.swift": {
+    "dependencies": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/RoomScannerView.d",
+    "object": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/RoomScannerView.swift.o",
+    "swiftmodule": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/RoomScannerView~partial.swiftmodule",
+    "swift-dependencies": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/RoomScannerView.swiftdeps",
+    "diagnostics": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/RoomScannerView.dia"
+  },
+  "/Users/bfaris96/Claude Code Markdown/space_scanner/SpaceScanner/Shared/Views/ScannerHomeView.swift": {
+    "dependencies": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/ScannerHomeView.d",
+    "object": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/ScannerHomeView.swift.o",
+    "swiftmodule": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/ScannerHomeView~partial.swiftmodule",
+    "swift-dependencies": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/ScannerHomeView.swiftdeps",
+    "diagnostics": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/ScannerHomeView.dia"
+  },
+  "/Users/bfaris96/Claude Code Markdown/space_scanner/SpaceScanner/SpaceScannerApp.swift": {
+    "dependencies": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/SpaceScannerApp.d",
+    "object": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/SpaceScannerApp.swift.o",
+    "swiftmodule": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/SpaceScannerApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/SpaceScannerApp.swiftdeps",
+    "diagnostics": "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/SpaceScannerApp.dia"
+  }
+}

@@ -1,0 +1,3 @@
+module SpaceScanner {
+    header "/Users/bfaris96/Claude Code Markdown/space_scanner/.build/arm64-apple-macosx/debug/SpaceScanner.build/include/SpaceScanner-Swift.h"
+}
